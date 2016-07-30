@@ -1,0 +1,6 @@
+--- !ruby/object:Hangman
+load_option: n
+word: scent
+guess_word: sce--
+guessed_letters: []
+turn_passed: 3
